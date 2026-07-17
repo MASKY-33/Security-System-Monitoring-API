@@ -9,8 +9,6 @@ app = FastAPI()
 
 
 
-
-
 blacklisted_ips = ["192.168.1.5", "10.0.0.99"]
 
 firewall_logs = [
